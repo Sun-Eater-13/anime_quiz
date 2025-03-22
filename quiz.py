@@ -16,7 +16,7 @@ def repeat(question, answer):
     if answer==user_answer.upper():
         points+=1
 
-repeat(0,"C")
+repeat(0,"A")
 print()
 repeat(1,"C")
 print()
